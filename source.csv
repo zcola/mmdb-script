@@ -1,0 +1,10 @@
+network,continent_code,continent_name_en,continent_name_zh,country_iso_code,country_name_en,country_name_zh,province_iso_code,province_name_en,province_name_zh,city_id,city_name_en,city_name_zh,county_id,county_name_en,county_name_zh,isp_id,isp_name,time_zone,org,latitude,longitude
+0.0.0.0/8,IANA,Reserved for Loopback [RFC1122],IANA保留地址，本地地址[RFC1122],,,,,,,0,,,0,,,0,,,,,
+1.0.0.0/24,OC,Oceania,大洋洲,AU,Australia,澳大利亚,,,,0,,,0,,,2,Anycast,,亚太互联网络信息中心,-27,133.0000
+1.0.1.0/24,AS,Asia,亚洲,CN,China,中国,35,Fujian,福建省,0,,,0,,,10000,电信,Asia/Shanghai,,26.0501182957,117.98494312
+1.0.2.0/23,AS,Asia,亚洲,CN,China,中国,35,Fujian,福建省,0,,,0,,,10000,电信,Asia/Shanghai,,26.0501182957,117.98494312
+1.0.4.0/22,OC,Oceania,大洋洲,AU,Australia,澳大利亚,,,,0,,,0,,,0,,,墨尔本BigRed集团,-27,133.0000
+1.0.8.0/21,AS,Asia,亚洲,CN,China,中国,44,Guangdong,广东省,0,,,0,,,10000,电信,Asia/Shanghai,,23.408003729,113.394817559
+1.0.16.0/20,AS,Asia,亚洲,JP,Japan,日本,13,Tokyo,,0,Tokyo,东京,0,,,0,,Asia/Tokyo,东京I2TsInc,35.685,139.7514
+1.0.32.0/19,AS,Asia,亚洲,CN,China,中国,44,Guangdong,广东省,0,,,0,,,10000,电信,Asia/Shanghai,,23.408003729,113.394817559
+1.0.64.0/20,AS,Asia,亚洲,JP,Japan,日本,34,Hiroshima,,0,Hiroshima,,0,,,0,,Asia/Tokyo,広島県中区大手町Energia通信公司,34.3963,132.4594
